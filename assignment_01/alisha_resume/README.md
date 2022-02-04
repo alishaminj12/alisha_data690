@@ -1,11 +1,13 @@
 # **ALISHA MINJ**
 | Baltimore, MD 21201 | 443-691-7868 | alishaminj1204@gmail.com
 
-### **SUMMARY**
+![alisha_photo](Alisha.jpg)
 
-Ambitious Data Science student seeking internship in data analyst to gain hands - on experience from industry experts.Highly motivated individual with a passion to learn and grow in the field. I introspect myself as a creative, interactive and adaptive individual with a self- directed approach. 
+## Summary
 
-### **SKILLS**
+Ambitious Data Science student seeking internship in data analyst to gain hands - on experience from industry experts.Highly motivated individual with a passion to learn and grow in the field. I introspect myself as a creative, interactive and adaptive individual with a self - directed approach. 
+
+## Skills
 
 
  - Communication                                 
@@ -13,7 +15,7 @@ Ambitious Data Science student seeking internship in data analyst to gain hands 
  - Strategic Planning                           
  - Quantitative skills
 
-### **EDUCATION BACKGROUND**
+## Education Background
 
  
  - **Bachelor of Technology** in Computer Science from SRM Institute of Science and Technology, Chennai, India
@@ -22,7 +24,7 @@ Ambitious Data Science student seeking internship in data analyst to gain hands 
 
  - **Senior Secondary Certificate** from Delhi Public School, Durg, India
 
-### **PROJECTS**
+## Projects
  1. **SOS Android application from women safety**
 
  An Android application in which people can send distress signal in danger to their emergency contacts and police with their location.
@@ -36,24 +38,24 @@ Ambitious Data Science student seeking internship in data analyst to gain hands 
 
  A wearable electronic adhesive device with automatic trigger in case of emergency. The strip can be wore anywhere according to one's convenience. It also has better network range and can connect with an application.
 
-### **TECHNICAL SKILLS**
+## Technical Skills
 - **Programming languages** - C, C++, Python, PHP 
 - **Softwares** - Operating System, DBMS, MySQL
 
-### **CERTIFICATIONS**
+## Certifications
 - Value added course in C, C++, certified by Sai Career Visions.
 - Python and Machine learning course by Udemy
 
-### **PUBLICATIONS**
+## Publications
  1. Smart and cocvenient device to fight against women assault in IJARIIE journal 
 
-   | Paper ID- 7613| ISSN NO. 2395-4396|Volume -4| Date- 24-03-2018|
+     | Paper ID- 7613| ISSN NO. 2395-4396|Volume -4| Date- 24-03-2018|
 
 2. Extended Emergency call for android device in IJARIIE journal 
 
    | Paper ID- 7735| ISSN NO. 2395-4396|Volume -4| Date- 31-03-2018|
 
-### **LANGUAGE**
+## Language 
 - Bilingual- English and Hindi
 - Ruimentary- German
  
