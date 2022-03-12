@@ -32,4 +32,4 @@ More people are using electricity than ever before as an essential part of moder
 
 Globally access to electricity has been steadily rising over the decades and has begun to accelerate in developing countries. By 2016, the majority of the world population had access to electricity. Access to electricity indicates the social and economic growth of the country. And an undistorted indication of a country’s energy power status.
 
-![](1.png)
+![](Access_to_electricity_in_2016.png)
