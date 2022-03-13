@@ -76,3 +76,10 @@ Carbon dioxide is released into the atmosphere when fossil fuels are burned. Car
 
 ## Renewable Energy
 
+![](Electricity_product_on_from_hydroelectric_sources_in_2010.png)
+
+
+![](Electricity_production_from_renewable_sources_excluding_hydroelectric_in_2010.png)
+
+
+
