@@ -9,8 +9,6 @@
 -	Energy & Mining
 -	Climate Change
 
-## Indicators:
-
 ## Countries:
 
 -	United States 
@@ -76,8 +74,17 @@ Carbon dioxide is released into the atmosphere when fossil fuels are burned. Car
 
 ## Renewable Energy
 
+Countries are switching to clean energy to tackle climate change. Solar, wind, and hydro are renewable and carbon-free, and effectively inexhaustible. Nonrenewable sources began replacing most of renewable energy use in many countries in the early 1800s, and by the early-1900s, fossil fuels were the main sources of energy. 
+
+## Hydroelectric sources
+
+Hydroelectric sources are the best renewable sources of energy that we can have and amongst them Brazil has the highest production capabilities with 78.1% of their total power coming from hydroelectric power plants. Canada is the second-highest producer with 58%. Followed by Italy, China, and Russia at around 7% production. Germany Has the least with less than 2%. hydropower does not generate emissions and is very consistent and reliable in most locations. 
+
 ![](Electricity_product_on_from_hydroelectric_sources_in_2010.png)
 
+## Other Renewable Sources
+
+Solar and wind energy are that it is relatively predictable and reliable, it is effectively limitless. Biomass is renewable and carbon-neutral; it is also possible to use biomass unsustainably by harvesting it. Electricity produced among these countries using renewable sources apart from hydroelectricity is considerably higher than other means; Also, In this case, Germany produces 28.4% of its total electricity from other renewable sources. While Italy follows with 18.4% and Brazil with 13.8% while China has 3.55% of its total electric production via other means of sources apart from hydroelectric sources.
 
 ![](Electricity_production_from_renewable_sources_excluding_hydroelectric_in_2010.png)
 
