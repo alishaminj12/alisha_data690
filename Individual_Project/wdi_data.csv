@@ -1,0 +1,517 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,13.2507288864,EN.ATM.CO2E.GF.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+1,2011,12.1125637706,EN.ATM.CO2E.GF.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+2,2012,13.2536692049,EN.ATM.CO2E.GF.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+3,2013,14.7322480636,EN.ATM.CO2E.GF.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+4,2014,15.4102567189,EN.ATM.CO2E.GF.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+5,2015,16.0930241473,EN.ATM.CO2E.GF.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+6,2016,14.9614197461,EN.ATM.CO2E.GF.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+7,2010,33.689958507,EN.ATM.CO2E.GF.ZS,CAN,Canada,North America,High income,Not classified
+8,2011,34.8984959468,EN.ATM.CO2E.GF.ZS,CAN,Canada,North America,High income,Not classified
+9,2012,34.8101606536,EN.ATM.CO2E.GF.ZS,CAN,Canada,North America,High income,Not classified
+10,2013,35.6918696863,EN.ATM.CO2E.GF.ZS,CAN,Canada,North America,High income,Not classified
+11,2014,36.0408082516,EN.ATM.CO2E.GF.ZS,CAN,Canada,North America,High income,Not classified
+12,2015,35.7814677881,EN.ATM.CO2E.GF.ZS,CAN,Canada,North America,High income,Not classified
+13,2016,39.4251794797,EN.ATM.CO2E.GF.ZS,CAN,Canada,North America,High income,Not classified
+14,2010,2.3581509155,EN.ATM.CO2E.GF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+15,2011,2.6534247191,EN.ATM.CO2E.GF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+16,2012,2.9143026116,EN.ATM.CO2E.GF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+17,2013,3.2243109067,EN.ATM.CO2E.GF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+18,2014,3.5763750765999998,EN.ATM.CO2E.GF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+19,2015,3.7327904883,EN.ATM.CO2E.GF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+20,2016,4.1071792923,EN.ATM.CO2E.GF.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+21,2010,28.0015298615,EN.ATM.CO2E.GF.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+22,2011,25.4369058256,EN.ATM.CO2E.GF.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+23,2012,26.026508786,EN.ATM.CO2E.GF.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+24,2013,26.539262989,EN.ATM.CO2E.GF.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+25,2014,24.5140991035,EN.ATM.CO2E.GF.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+26,2010,22.4919960669,EN.ATM.CO2E.GF.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+27,2011,21.3560325839,EN.ATM.CO2E.GF.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+28,2012,21.0403063077,EN.ATM.CO2E.GF.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+29,2013,21.530533287,EN.ATM.CO2E.GF.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+30,2014,19.6812423219,EN.ATM.CO2E.GF.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+31,2015,20.1027735043,EN.ATM.CO2E.GF.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+32,2016,21.5592998729,EN.ATM.CO2E.GF.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+33,2010,6.0239906684,EN.ATM.CO2E.GF.ZS,IND,India,South Asia,Lower middle income,IBRD
+34,2011,5.193320025,EN.ATM.CO2E.GF.ZS,IND,India,South Asia,Lower middle income,IBRD
+35,2012,4.094746538,EN.ATM.CO2E.GF.ZS,IND,India,South Asia,Lower middle income,IBRD
+36,2013,5.1801611747,EN.ATM.CO2E.GF.ZS,IND,India,South Asia,Lower middle income,IBRD
+37,2014,4.3378598605,EN.ATM.CO2E.GF.ZS,IND,India,South Asia,Lower middle income,IBRD
+38,2015,4.6039164365000005,EN.ATM.CO2E.GF.ZS,IND,India,South Asia,Lower middle income,IBRD
+39,2016,4.3892542871,EN.ATM.CO2E.GF.ZS,IND,India,South Asia,Lower middle income,IBRD
+40,2010,38.4615611814,EN.ATM.CO2E.GF.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+41,2011,36.8437870882,EN.ATM.CO2E.GF.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+42,2012,37.2987676178,EN.ATM.CO2E.GF.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+43,2013,37.9369646414,EN.ATM.CO2E.GF.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+44,2014,35.4618125744,EN.ATM.CO2E.GF.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+45,2010,17.0138928967,EN.ATM.CO2E.GF.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+46,2011,18.8515449153,EN.ATM.CO2E.GF.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+47,2012,19.1742792001,EN.ATM.CO2E.GF.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+48,2013,19.0955047982,EN.ATM.CO2E.GF.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+49,2014,20.0190627306,EN.ATM.CO2E.GF.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+50,2015,19.4259441388,EN.ATM.CO2E.GF.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+51,2016,19.8837995032,EN.ATM.CO2E.GF.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+52,2010,55.486549117,EN.ATM.CO2E.GF.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+53,2011,54.5769060285,EN.ATM.CO2E.GF.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+54,2012,53.1915854961,EN.ATM.CO2E.GF.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+55,2013,54.4633112893,EN.ATM.CO2E.GF.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+56,2014,54.9351680296,EN.ATM.CO2E.GF.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+57,2015,53.5628314061,EN.ATM.CO2E.GF.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+58,2016,55.5477801947,EN.ATM.CO2E.GF.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+59,2010,23.6437105289,EN.ATM.CO2E.GF.ZS,USA,United States,North America,High income,Not classified
+60,2011,25.2134698478,EN.ATM.CO2E.GF.ZS,USA,United States,North America,High income,Not classified
+61,2012,27.5773369615,EN.ATM.CO2E.GF.ZS,USA,United States,North America,High income,Not classified
+62,2013,27.3544006091,EN.ATM.CO2E.GF.ZS,USA,United States,North America,High income,Not classified
+63,2014,28.2288097394,EN.ATM.CO2E.GF.ZS,USA,United States,North America,High income,Not classified
+64,2015,29.7856403942,EN.ATM.CO2E.GF.ZS,USA,United States,North America,High income,Not classified
+65,2016,30.6538468777,EN.ATM.CO2E.GF.ZS,USA,United States,North America,High income,Not classified
+66,2010,7.0722934784,EG.ELC.NGAS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+67,2011,4.7192608654,EG.ELC.NGAS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+68,2012,8.4614493761,EG.ELC.NGAS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+69,2013,12.0823819463,EG.ELC.NGAS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+70,2014,13.7263798758,EG.ELC.NGAS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+71,2015,13.6662471718,EG.ELC.NGAS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+72,2010,8.6128149758,EG.ELC.NGAS.ZS,CAN,Canada,North America,High income,Not classified
+73,2011,9.6938342537,EG.ELC.NGAS.ZS,CAN,Canada,North America,High income,Not classified
+74,2012,10.2203562077,EG.ELC.NGAS.ZS,CAN,Canada,North America,High income,Not classified
+75,2013,9.8028545874,EG.ELC.NGAS.ZS,CAN,Canada,North America,High income,Not classified
+76,2014,9.6035124907,EG.ELC.NGAS.ZS,CAN,Canada,North America,High income,Not classified
+77,2015,10.01595253,EG.ELC.NGAS.ZS,CAN,Canada,North America,High income,Not classified
+78,2010,1.8598810065,EG.ELC.NGAS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+79,2011,2.0390613028,EG.ELC.NGAS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+80,2012,1.9815709250000002,EG.ELC.NGAS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+81,2013,1.9612192768,EG.ELC.NGAS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+82,2014,2.0210051811,EG.ELC.NGAS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+83,2015,2.4870306381000002,EG.ELC.NGAS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+84,2010,4.2102838105,EG.ELC.NGAS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+85,2011,4.8088070097,EG.ELC.NGAS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+86,2012,3.8955821142,EG.ELC.NGAS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+87,2013,3.0281337499,EG.ELC.NGAS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+88,2014,2.2914624026,EG.ELC.NGAS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+89,2015,3.5127259563,EG.ELC.NGAS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+90,2010,14.4197975368,EG.ELC.NGAS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+91,2011,14.3651149156,EG.ELC.NGAS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+92,2012,12.4418407037,EG.ELC.NGAS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+93,2013,10.8598693409,EG.ELC.NGAS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+94,2014,10.0122520251,EG.ELC.NGAS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+95,2015,9.8315513903,EG.ELC.NGAS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+96,2010,11.5669950256,EG.ELC.NGAS.ZS,IND,India,South Asia,Lower middle income,IBRD
+97,2011,10.6271916436,EG.ELC.NGAS.ZS,IND,India,South Asia,Lower middle income,IBRD
+98,2012,7.6134701157,EG.ELC.NGAS.ZS,IND,India,South Asia,Lower middle income,IBRD
+99,2013,5.2414371024,EG.ELC.NGAS.ZS,IND,India,South Asia,Lower middle income,IBRD
+100,2014,4.6365335531,EG.ELC.NGAS.ZS,IND,India,South Asia,Lower middle income,IBRD
+101,2015,4.923196173,EG.ELC.NGAS.ZS,IND,India,South Asia,Lower middle income,IBRD
+102,2010,51.1217546432,EG.ELC.NGAS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+103,2011,48.0788164232,EG.ELC.NGAS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+104,2012,43.4103155756,EG.ELC.NGAS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+105,2013,37.8157681768,EG.ELC.NGAS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+106,2014,33.6683254469,EG.ELC.NGAS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+107,2015,39.3732108736,EG.ELC.NGAS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+108,2010,27.9469398209,EG.ELC.NGAS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+109,2011,36.1084817194,EG.ELC.NGAS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+110,2012,38.7185888748,EG.ELC.NGAS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+111,2013,38.4681449463,EG.ELC.NGAS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+112,2014,41.5149356445,EG.ELC.NGAS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+113,2015,39.5872171983,EG.ELC.NGAS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+114,2010,50.2384868104,EG.ELC.NGAS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+115,2011,49.3068857484,EG.ELC.NGAS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+116,2012,49.132199833,EG.ELC.NGAS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+117,2013,50.1115272568,EG.ELC.NGAS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+118,2014,50.2189991274,EG.ELC.NGAS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+119,2015,49.7126094313,EG.ELC.NGAS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+120,2010,23.3758416558,EG.ELC.NGAS.ZS,USA,United States,North America,High income,Not classified
+121,2011,24.1585897586,EG.ELC.NGAS.ZS,USA,United States,North America,High income,Not classified
+122,2012,29.6086711791,EG.ELC.NGAS.ZS,USA,United States,North America,High income,Not classified
+123,2013,27.0217680239,EG.ELC.NGAS.ZS,USA,United States,North America,High income,Not classified
+124,2014,26.8879614443,EG.ELC.NGAS.ZS,USA,United States,North America,High income,Not classified
+125,2015,31.9421612232,EG.ELC.NGAS.ZS,USA,United States,North America,High income,Not classified
+126,2010,6.5288078411,EG.ELC.RNWX.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+127,2011,6.570482382,EG.ELC.RNWX.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+128,2012,7.2901285503,EG.ELC.RNWX.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+129,2013,8.2257623937,EG.ELC.RNWX.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+130,2014,9.857089889000001,EG.ELC.RNWX.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+131,2015,12.1184144471,EG.ELC.RNWX.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+132,2010,3.2123552635,EG.ELC.RNWX.ZS,CAN,Canada,North America,High income,Not classified
+133,2011,3.2980157845,EG.ELC.RNWX.ZS,CAN,Canada,North America,High income,Not classified
+134,2012,3.5072590792,EG.ELC.RNWX.ZS,CAN,Canada,North America,High income,Not classified
+135,2013,4.4099542274,EG.ELC.RNWX.ZS,CAN,Canada,North America,High income,Not classified
+136,2014,5.5703755599,EG.ELC.RNWX.ZS,CAN,Canada,North America,High income,Not classified
+137,2015,6.2672570594,EG.ELC.RNWX.ZS,CAN,Canada,North America,High income,Not classified
+138,2010,1.6738524027000001,EG.ELC.RNWX.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+139,2011,2.1376401981,EG.ELC.RNWX.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+140,2012,2.6575149878,EG.ELC.RNWX.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+141,2013,3.5648783506,EG.ELC.RNWX.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+142,2014,4.0566598038,EG.ELC.RNWX.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+143,2015,4.8570042083,EG.ELC.RNWX.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+144,2010,2.7436490426,EG.ELC.RNWX.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+145,2011,3.5242417434,EG.ELC.RNWX.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+146,2012,4.3427098009,EG.ELC.RNWX.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+147,2013,4.5765831846000005,EG.ELC.RNWX.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+148,2014,5.1939694962,EG.ELC.RNWX.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+149,2015,6.1965167331,EG.ELC.RNWX.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+150,2010,13.3830633771,EG.ELC.RNWX.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+151,2011,17.4731731738,EG.ELC.RNWX.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+152,2012,19.5125040483,EG.ELC.RNWX.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+153,2013,20.439058686,EG.ELC.RNWX.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+154,2014,22.9807472771,EG.ELC.RNWX.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+155,2015,26.2710872791,EG.ELC.RNWX.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+156,2010,3.4780930677,EG.ELC.RNWX.ZS,IND,India,South Asia,Lower middle income,IBRD
+157,2011,3.9547302277,EG.ELC.RNWX.ZS,IND,India,South Asia,Lower middle income,IBRD
+158,2012,4.6436086048,EG.ELC.RNWX.ZS,IND,India,South Asia,Lower middle income,IBRD
+159,2013,4.9606533261,EG.ELC.RNWX.ZS,IND,India,South Asia,Lower middle income,IBRD
+160,2014,5.1736825588,EG.ELC.RNWX.ZS,IND,India,South Asia,Lower middle income,IBRD
+161,2015,5.361011248,EG.ELC.RNWX.ZS,IND,India,South Asia,Lower middle income,IBRD
+162,2010,8.6517188635,EG.ELC.RNWX.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+163,2011,12.3533168356,EG.ELC.RNWX.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+164,2012,16.935196335,EG.ELC.RNWX.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+165,2013,20.5752512078,EG.ELC.RNWX.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+166,2014,22.3410375527,EG.ELC.RNWX.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+167,2015,22.5058779239,EG.ELC.RNWX.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+168,2010,3.3206030539,EG.ELC.RNWX.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+169,2011,3.7192163389,EG.ELC.RNWX.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+170,2012,4.0502275154,EG.ELC.RNWX.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+171,2013,4.8343423952,EG.ELC.RNWX.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+172,2014,6.300469635,EG.ELC.RNWX.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+173,2015,7.7556879102,EG.ELC.RNWX.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+174,2010,0.052600288,EG.ELC.RNWX.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+175,2011,0.053371269400000004,EG.ELC.RNWX.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+176,2012,0.0492839795,EG.ELC.RNWX.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+177,2013,0.0459535793,EG.ELC.RNWX.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+178,2014,0.06994040480000001,EG.ELC.RNWX.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+179,2015,0.0910265638,EG.ELC.RNWX.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+180,2010,4.0972927613,EG.ELC.RNWX.ZS,USA,United States,North America,High income,Not classified
+181,2011,4.7896113261,EG.ELC.RNWX.ZS,USA,United States,North America,High income,Not classified
+182,2012,5.4862412559,EG.ELC.RNWX.ZS,USA,United States,North America,High income,Not classified
+183,2013,6.3200092183,EG.ELC.RNWX.ZS,USA,United States,North America,High income,Not classified
+184,2014,6.9000286167,EG.ELC.RNWX.ZS,USA,United States,North America,High income,Not classified
+185,2015,7.3869549514,EG.ELC.RNWX.ZS,USA,United States,North America,High income,Not classified
+186,2010,78.1954260342,EG.ELC.HYRO.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+187,2011,80.5505146148,EG.ELC.HYRO.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+188,2012,75.1581545499,EG.ELC.HYRO.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+189,2013,68.4634457254,EG.ELC.HYRO.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+190,2014,63.2249839584,EG.ELC.HYRO.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+191,2015,61.848493601,EG.ELC.HYRO.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+192,2010,58.1844015792,EG.ELC.HYRO.ZS,CAN,Canada,North America,High income,Not classified
+193,2011,59.0402343468,EG.ELC.HYRO.ZS,CAN,Canada,North America,High income,Not classified
+194,2012,59.7233020917,EG.ELC.HYRO.ZS,CAN,Canada,North America,High income,Not classified
+195,2013,58.8880788281,EG.ELC.HYRO.ZS,CAN,Canada,North America,High income,Not classified
+196,2014,57.2546166559,EG.ELC.HYRO.ZS,CAN,Canada,North America,High income,Not classified
+197,2015,56.7441929809,EG.ELC.HYRO.ZS,CAN,Canada,North America,High income,Not classified
+198,2010,16.9489736501,EG.ELC.HYRO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+199,2011,14.6241302347,EG.ELC.HYRO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+200,2012,17.30873395,EG.ELC.HYRO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+201,2013,16.7313490296,EG.ELC.HYRO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+202,2014,18.5524939792,EG.ELC.HYRO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+203,2015,19.0698129654,EG.ELC.HYRO.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+204,2010,11.1137102705,EG.ELC.HYRO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+205,2011,8.0505055044,EG.ELC.HYRO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+206,2012,10.484644271,EG.ELC.HYRO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+207,2013,12.4687030546,EG.ELC.HYRO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+208,2014,11.2619354469,EG.ELC.HYRO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+209,2015,9.6611498969,EG.ELC.HYRO.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+210,2010,3.3440102907,EG.ELC.HYRO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+211,2011,2.9101095470000002,EG.ELC.HYRO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+212,2012,3.4879544923,EG.ELC.HYRO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+213,2013,3.6334910616,EG.ELC.HYRO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+214,2014,3.1493492921,EG.ELC.HYRO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+215,2015,2.9606828433,EG.ELC.HYRO.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+216,2010,12.5656513678,EG.ELC.HYRO.ZS,IND,India,South Asia,Lower middle income,IBRD
+217,2011,13.3622326288,EG.ELC.HYRO.ZS,IND,India,South Asia,Lower middle income,IBRD
+218,2012,11.0893647561,EG.ELC.HYRO.ZS,IND,India,South Asia,Lower middle income,IBRD
+219,2013,12.3886605002,EG.ELC.HYRO.ZS,IND,India,South Asia,Lower middle income,IBRD
+220,2014,11.0801572566,EG.ELC.HYRO.ZS,IND,India,South Asia,Lower middle income,IBRD
+221,2015,9.9820390975,EG.ELC.HYRO.ZS,IND,India,South Asia,Lower middle income,IBRD
+222,2010,17.1086410084,EG.ELC.HYRO.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+223,2011,15.2414118837,EG.ELC.HYRO.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+224,2012,14.0851939805,EG.ELC.HYRO.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+225,2013,18.3300973572,EG.ELC.HYRO.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+226,2014,21.0505688274,EG.ELC.HYRO.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+227,2015,16.1733472557,EG.ELC.HYRO.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+228,2010,7.2111741095,EG.ELC.HYRO.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+229,2011,7.7436282627,EG.ELC.HYRO.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+230,2012,7.1440198669,EG.ELC.HYRO.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+231,2013,7.370949399,EG.ELC.HYRO.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+232,2014,7.7588897226,EG.ELC.HYRO.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+233,2015,8.2290928129,EG.ELC.HYRO.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+234,2010,16.0679885264,EG.ELC.HYRO.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+235,2011,15.7496526594,EG.ELC.HYRO.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+236,2012,15.5144471263,EG.ELC.HYRO.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+237,2013,17.1286766409,EG.ELC.HYRO.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+238,2014,16.4983107933,EG.ELC.HYRO.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+239,2015,15.7647685908,EG.ELC.HYRO.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+240,2010,6.0230623859,EG.ELC.HYRO.ZS,USA,United States,North America,High income,Not classified
+241,2011,7.4361021903,EG.ELC.HYRO.ZS,USA,United States,North America,High income,Not classified
+242,2012,6.5211558076,EG.ELC.HYRO.ZS,USA,United States,North America,High income,Not classified
+243,2013,6.317909904,EG.ELC.HYRO.ZS,USA,United States,North America,High income,Not classified
+244,2014,6.0537984736,EG.ELC.HYRO.ZS,USA,United States,North America,High income,Not classified
+245,2015,5.8416382596,EG.ELC.HYRO.ZS,USA,United States,North America,High income,Not classified
+246,2010,2.1983732271,EG.ELC.COAL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+247,2011,2.3279430266,EG.ELC.COAL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+248,2012,2.5916355424,EG.ELC.COAL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+249,2013,3.8130191772,EG.ELC.COAL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+250,2014,4.5295783805,EG.ELC.COAL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+251,2015,4.7224113387,EG.ELC.COAL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+252,2010,13.1721801224,EG.ELC.COAL.ZS,CAN,Canada,North America,High income,Not classified
+253,2011,11.812887186,EG.ELC.COAL.ZS,CAN,Canada,North America,High income,Not classified
+254,2012,10.1160604476,EG.ELC.COAL.ZS,CAN,Canada,North America,High income,Not classified
+255,2013,9.7993972146,EG.ELC.COAL.ZS,CAN,Canada,North America,High income,Not classified
+256,2014,9.9171277335,EG.ELC.COAL.ZS,CAN,Canada,North America,High income,Not classified
+257,2015,9.8364492948,EG.ELC.COAL.ZS,CAN,Canada,North America,High income,Not classified
+258,2010,77.1871941416,EG.ELC.COAL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+259,2011,78.8771230436,EG.ELC.COAL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+260,2012,75.6589120538,EG.ELC.COAL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+261,2013,75.279068574,EG.ELC.COAL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+262,2014,72.6339078091,EG.ELC.COAL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+263,2015,70.3094269525,EG.ELC.COAL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+264,2010,4.6634236246,EG.ELC.COAL.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+265,2011,3.1112109638,EG.ELC.COAL.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+266,2012,3.7011244261,EG.ELC.COAL.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+267,2013,4.2902381742,EG.ELC.COAL.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+268,2014,2.1570289856000002,EG.ELC.COAL.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+269,2015,2.1604489134,EG.ELC.COAL.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+270,2010,43.6424224724,EG.ELC.COAL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+271,2011,44.8562977992,EG.ELC.COAL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+272,2012,46.0164689812,EG.ELC.COAL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+273,2013,47.2412294907,EG.ELC.COAL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+274,2014,45.810193299,EG.ELC.COAL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+275,2015,44.2628091618,EG.ELC.COAL.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+276,2010,67.1782980878,EG.ELC.COAL.ZS,IND,India,South Asia,Lower middle income,IBRD
+277,2011,66.7599782604,EG.ELC.COAL.ZS,IND,India,South Asia,Lower middle income,IBRD
+278,2012,71.6360550608,EG.ELC.COAL.ZS,IND,India,South Asia,Lower middle income,IBRD
+279,2013,72.522738112,EG.ELC.COAL.ZS,IND,India,South Asia,Lower middle income,IBRD
+280,2014,74.4921858695,EG.ELC.COAL.ZS,IND,India,South Asia,Lower middle income,IBRD
+281,2015,75.3093989605,EG.ELC.COAL.ZS,IND,India,South Asia,Lower middle income,IBRD
+282,2010,14.8721604697,EG.ELC.COAL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+283,2011,16.6769777281,EG.ELC.COAL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+284,2012,18.2005933441,EG.ELC.COAL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+285,2013,16.8431691958,EG.ELC.COAL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+286,2014,16.7282716564,EG.ELC.COAL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+287,2015,16.1200730212,EG.ELC.COAL.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+288,2010,27.1551421675,EG.ELC.COAL.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+289,2011,27.0999531829,EG.ELC.COAL.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+290,2012,29.7220792102,EG.ELC.COAL.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+291,2013,32.9258705223,EG.ELC.COAL.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+292,2014,32.7419341069,EG.ELC.COAL.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+293,2015,33.1527356254,EG.ELC.COAL.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+294,2010,15.9830559513,EG.ELC.COAL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+295,2011,15.5421504823,EG.ELC.COAL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+296,2012,15.7494578295,EG.ELC.COAL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+297,2013,15.2216976538,EG.ELC.COAL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+298,2014,14.7879243138,EG.ELC.COAL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+299,2015,14.8216583163,EG.ELC.COAL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+300,2010,45.7976057577,EG.ELC.COAL.ZS,USA,United States,North America,High income,Not classified
+301,2011,43.3457640869,EG.ELC.COAL.ZS,USA,United States,North America,High income,Not classified
+302,2012,38.4798556926,EG.ELC.COAL.ZS,USA,United States,North America,High income,Not classified
+303,2013,39.9431412367,EG.ELC.COAL.ZS,USA,United States,North America,High income,Not classified
+304,2014,39.6507326894,EG.ELC.COAL.ZS,USA,United States,North America,High income,Not classified
+305,2015,34.2327337279,EG.ELC.COAL.ZS,USA,United States,North America,High income,Not classified
+306,2010,2374.1166283676,EG.USE.ELEC.KH.PC,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+307,2011,2430.8033098181,EG.USE.ELEC.KH.PC,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+308,2012,2501.4741030251,EG.USE.ELEC.KH.PC,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+309,2013,2568.829695217,EG.USE.ELEC.KH.PC,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+310,2014,2619.9604994471,EG.USE.ELEC.KH.PC,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+311,2010,15269.745476893,EG.USE.ELEC.KH.PC,CAN,Canada,North America,High income,Not classified
+312,2011,15644.54027755,EG.USE.ELEC.KH.PC,CAN,Canada,North America,High income,Not classified
+313,2012,15336.6248565213,EG.USE.ELEC.KH.PC,CAN,Canada,North America,High income,Not classified
+314,2013,15750.8116334788,EG.USE.ELEC.KH.PC,CAN,Canada,North America,High income,Not classified
+315,2014,15588.4871464315,EG.USE.ELEC.KH.PC,CAN,Canada,North America,High income,Not classified
+316,2010,2943.5899544369,EG.USE.ELEC.KH.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+317,2011,3295.7848680518,EG.USE.ELEC.KH.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+318,2012,3466.0195393556,EG.USE.ELEC.KH.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+319,2013,3757.1850884657,EG.USE.ELEC.KH.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+320,2014,3905.3175980056,EG.USE.ELEC.KH.PC,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+321,2010,7734.7270205123,EG.USE.ELEC.KH.PC,FRA,France,Europe & Central Asia,High income,Not classified
+322,2011,7232.9786841514,EG.USE.ELEC.KH.PC,FRA,France,Europe & Central Asia,High income,Not classified
+323,2012,7363.4232347962,EG.USE.ELEC.KH.PC,FRA,France,Europe & Central Asia,High income,Not classified
+324,2013,7367.8437684024,EG.USE.ELEC.KH.PC,FRA,France,Europe & Central Asia,High income,Not classified
+325,2014,6939.9435249093,EG.USE.ELEC.KH.PC,FRA,France,Europe & Central Asia,High income,Not classified
+326,2010,7264.3225907355,EG.USE.ELEC.KH.PC,DEU,Germany,Europe & Central Asia,High income,Not classified
+327,2011,7281.2721741716,EG.USE.ELEC.KH.PC,DEU,Germany,Europe & Central Asia,High income,Not classified
+328,2012,7270.1525230273,EG.USE.ELEC.KH.PC,DEU,Germany,Europe & Central Asia,High income,Not classified
+329,2013,7217.529089155,EG.USE.ELEC.KH.PC,DEU,Germany,Europe & Central Asia,High income,Not classified
+330,2014,7035.4829747168,EG.USE.ELEC.KH.PC,DEU,Germany,Europe & Central Asia,High income,Not classified
+331,2010,640.3946067514,EG.USE.ELEC.KH.PC,IND,India,South Asia,Lower middle income,IBRD
+332,2011,696.8426814521,EG.USE.ELEC.KH.PC,IND,India,South Asia,Lower middle income,IBRD
+333,2012,723.236916568,EG.USE.ELEC.KH.PC,IND,India,South Asia,Lower middle income,IBRD
+334,2013,764.2011341446,EG.USE.ELEC.KH.PC,IND,India,South Asia,Lower middle income,IBRD
+335,2014,804.5163492833,EG.USE.ELEC.KH.PC,IND,India,South Asia,Lower middle income,IBRD
+336,2010,5493.7110367005,EG.USE.ELEC.KH.PC,ITA,Italy,Europe & Central Asia,High income,Not classified
+337,2011,5514.8036149679,EG.USE.ELEC.KH.PC,ITA,Italy,Europe & Central Asia,High income,Not classified
+338,2012,5397.7414773402,EG.USE.ELEC.KH.PC,ITA,Italy,Europe & Central Asia,High income,Not classified
+339,2013,5159.1836550379,EG.USE.ELEC.KH.PC,ITA,Italy,Europe & Central Asia,High income,Not classified
+340,2014,5002.4066798774,EG.USE.ELEC.KH.PC,ITA,Italy,Europe & Central Asia,High income,Not classified
+341,2010,8594.909034122,EG.USE.ELEC.KH.PC,JPN,Japan,East Asia & Pacific,High income,Not classified
+342,2011,8099.5986951726,EG.USE.ELEC.KH.PC,JPN,Japan,East Asia & Pacific,High income,Not classified
+343,2012,7998.3467707182,EG.USE.ELEC.KH.PC,JPN,Japan,East Asia & Pacific,High income,Not classified
+344,2013,7988.5833104476,EG.USE.ELEC.KH.PC,JPN,Japan,East Asia & Pacific,High income,Not classified
+345,2014,7819.7146359094,EG.USE.ELEC.KH.PC,JPN,Japan,East Asia & Pacific,High income,Not classified
+346,2010,6409.8943651649,EG.USE.ELEC.KH.PC,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+347,2011,6485.759030014,EG.USE.ELEC.KH.PC,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+348,2012,6617.1341613974,EG.USE.ELEC.KH.PC,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+349,2013,6539.2073745255,EG.USE.ELEC.KH.PC,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+350,2014,6602.6574793835,EG.USE.ELEC.KH.PC,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+351,2010,13394.9027551068,EG.USE.ELEC.KH.PC,USA,United States,North America,High income,Not classified
+352,2011,13245.8819278677,EG.USE.ELEC.KH.PC,USA,United States,North America,High income,Not classified
+353,2012,12964.1879389302,EG.USE.ELEC.KH.PC,USA,United States,North America,High income,Not classified
+354,2013,13004.0235689845,EG.USE.ELEC.KH.PC,USA,United States,North America,High income,Not classified
+355,2014,12993.9655794706,EG.USE.ELEC.KH.PC,USA,United States,North America,High income,Not classified
+356,2010,99.3521728516,EG.ELC.ACCS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+357,2011,99.328691,EG.ELC.ACCS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+358,2012,99.519494,EG.ELC.ACCS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+359,2013,99.575151,EG.ELC.ACCS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+360,2014,99.650247,EG.ELC.ACCS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+361,2015,99.710902,EG.ELC.ACCS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+362,2016,99.7,EG.ELC.ACCS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+363,2017,99.8,EG.ELC.ACCS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+364,2018,99.7,EG.ELC.ACCS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+365,2019,99.8,EG.ELC.ACCS.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+366,2010,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+367,2011,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+368,2012,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+369,2013,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+370,2014,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+371,2015,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+372,2016,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+373,2017,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+374,2018,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+375,2019,100.0,EG.ELC.ACCS.ZS,CAN,Canada,North America,High income,Not classified
+376,2010,99.7,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+377,2011,99.8572235107,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+378,2012,99.9648742676,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+379,2013,99.9970092773,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+380,2014,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+381,2015,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+382,2016,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+383,2017,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+384,2018,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+385,2019,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+386,2010,100.0,EG.ELC.ACCS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+387,2011,100.0,EG.ELC.ACCS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+388,2012,100.0,EG.ELC.ACCS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+389,2013,100.0,EG.ELC.ACCS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+390,2014,100.0,EG.ELC.ACCS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+391,2015,100.0,EG.ELC.ACCS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+392,2016,100.0,EG.ELC.ACCS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+393,2017,100.0,EG.ELC.ACCS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+394,2018,100.0,EG.ELC.ACCS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+395,2019,100.0,EG.ELC.ACCS.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+396,2010,100.0,EG.ELC.ACCS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+397,2011,100.0,EG.ELC.ACCS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+398,2012,100.0,EG.ELC.ACCS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+399,2013,100.0,EG.ELC.ACCS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+400,2014,100.0,EG.ELC.ACCS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+401,2015,100.0,EG.ELC.ACCS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+402,2016,100.0,EG.ELC.ACCS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+403,2017,100.0,EG.ELC.ACCS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+404,2018,100.0,EG.ELC.ACCS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+405,2019,100.0,EG.ELC.ACCS.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+406,2010,76.3,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+407,2011,67.6,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+408,2012,79.9,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+409,2013,80.7380447388,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+410,2014,83.5852127075,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+411,2015,88.0,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+412,2016,89.5348815918,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+413,2017,92.4568328857,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+414,2018,95.1932983398,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+415,2019,97.815284729,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+416,2010,100.0,EG.ELC.ACCS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+417,2011,100.0,EG.ELC.ACCS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+418,2012,100.0,EG.ELC.ACCS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+419,2013,100.0,EG.ELC.ACCS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+420,2014,100.0,EG.ELC.ACCS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+421,2015,100.0,EG.ELC.ACCS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+422,2016,100.0,EG.ELC.ACCS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+423,2017,100.0,EG.ELC.ACCS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+424,2018,100.0,EG.ELC.ACCS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+425,2019,100.0,EG.ELC.ACCS.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+426,2010,100.0,EG.ELC.ACCS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+427,2011,100.0,EG.ELC.ACCS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+428,2012,100.0,EG.ELC.ACCS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+429,2013,100.0,EG.ELC.ACCS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+430,2014,100.0,EG.ELC.ACCS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+431,2015,100.0,EG.ELC.ACCS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+432,2016,100.0,EG.ELC.ACCS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+433,2017,100.0,EG.ELC.ACCS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+434,2018,100.0,EG.ELC.ACCS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+435,2019,100.0,EG.ELC.ACCS.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+436,2010,100.0,EG.ELC.ACCS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+437,2011,100.0,EG.ELC.ACCS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+438,2012,100.0,EG.ELC.ACCS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+439,2013,100.0,EG.ELC.ACCS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+440,2014,100.0,EG.ELC.ACCS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+441,2015,95.5,EG.ELC.ACCS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+442,2016,100.0,EG.ELC.ACCS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+443,2017,100.0,EG.ELC.ACCS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+444,2018,100.0,EG.ELC.ACCS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+445,2019,100.0,EG.ELC.ACCS.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+446,2010,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+447,2011,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+448,2012,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+449,2013,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+450,2014,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+451,2015,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+452,2016,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+453,2017,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+454,2018,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+455,2019,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+456,2010,3.1149114388,EG.ELC.PETR.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+457,2011,2.7824739496,EG.ELC.PETR.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+458,2012,3.5452676684,EG.ELC.PETR.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+459,2013,4.6507067113,EG.ELC.PETR.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+460,2014,5.9972809663,EG.ELC.PETR.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+461,2015,5.0442532648,EG.ELC.PETR.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+462,2010,1.295010731,EG.ELC.PETR.ZS,CAN,Canada,North America,High income,Not classified
+463,2011,1.0372107204,EG.ELC.PETR.ZS,CAN,Canada,North America,High income,Not classified
+464,2012,1.0881943168000001,EG.ELC.PETR.ZS,CAN,Canada,North America,High income,Not classified
+465,2013,1.1670888169,EG.ELC.PETR.ZS,CAN,Canada,North America,High income,Not classified
+466,2014,1.2424852098999999,EG.ELC.PETR.ZS,CAN,Canada,North America,High income,Not classified
+467,2015,1.2147777082,EG.ELC.PETR.ZS,CAN,Canada,North America,High income,Not classified
+468,2010,0.3539499152,EG.ELC.PETR.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+469,2011,0.2578184563,EG.ELC.PETR.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+470,2012,0.2194099903,EG.ELC.PETR.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+471,2013,0.184178729,EG.ELC.PETR.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+472,2014,0.1679743794,EG.ELC.PETR.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+473,2015,0.1656183833,EG.ELC.PETR.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+474,2010,0.9787607326000001,EG.ELC.PETR.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+475,2011,0.615232532,EG.ELC.PETR.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+476,2012,1.1094266445,EG.ELC.PETR.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+477,2013,0.4480312017,EG.ELC.PETR.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+478,2014,0.3760550783,EG.ELC.PETR.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+479,2015,0.3826127696,EG.ELC.PETR.ZS,FRA,France,Europe & Central Asia,High income,Not classified
+480,2010,1.3950266764,EG.ELC.PETR.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+481,2011,1.1794581278,EG.ELC.PETR.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+482,2012,1.2228282653,EG.ELC.PETR.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+483,2013,1.1372236134,EG.ELC.PETR.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+484,2014,0.9098977712,EG.ELC.PETR.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+485,2015,0.968692616,EG.ELC.PETR.ZS,DEU,Germany,Europe & Central Asia,High income,Not classified
+486,2010,2.4905658066000003,EG.ELC.PETR.ZS,IND,India,South Asia,Lower middle income,IBRD
+487,2011,2.2451551181,EG.ELC.PETR.ZS,IND,India,South Asia,Lower middle income,IBRD
+488,2012,2.0378451875,EG.ELC.PETR.ZS,IND,India,South Asia,Lower middle income,IBRD
+489,2013,1.9563340924000001,EG.ELC.PETR.ZS,IND,India,South Asia,Lower middle income,IBRD
+490,2014,1.7674358923,EG.ELC.PETR.ZS,IND,India,South Asia,Lower middle income,IBRD
+491,2015,1.6595035155,EG.ELC.PETR.ZS,IND,India,South Asia,Lower middle income,IBRD
+492,2010,7.2677249952,EG.ELC.PETR.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+493,2011,6.6140469918,EG.ELC.PETR.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+494,2012,6.3538940726,EG.ELC.PETR.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+495,2013,5.3773935514,EG.ELC.PETR.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+496,2014,5.0924793971,EG.ELC.PETR.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+497,2015,4.7534823591,EG.ELC.PETR.ZS,ITA,Italy,Europe & Central Asia,High income,Not classified
+498,2010,6.868561765,EG.ELC.PETR.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+499,2011,10.6210669653,EG.ELC.PETR.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+500,2012,12.7065051976,EG.ELC.PETR.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+501,2013,10.2033381624,EG.ELC.PETR.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+502,2014,8.53586006,EG.ELC.PETR.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+503,2015,7.5194201297,EG.ELC.PETR.ZS,JPN,Japan,East Asia & Pacific,High income,Not classified
+504,2010,0.8971003247,EG.ELC.PETR.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+505,2011,2.5968636307,EG.ELC.PETR.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+506,2012,2.6228054835,EG.ELC.PETR.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+507,2013,0.8219639198,EG.ELC.PETR.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+508,2014,1.0063699424,EG.ELC.PETR.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+509,2015,0.946957789,EG.ELC.PETR.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+510,2010,1.1043176694,EG.ELC.PETR.ZS,USA,United States,North America,High income,Not classified
+511,2011,0.9135043746,EG.ELC.PETR.ZS,USA,United States,North America,High income,Not classified
+512,2012,0.7743127652,EG.ELC.PETR.ZS,USA,United States,North America,High income,Not classified
+513,2013,0.8597392092,EG.ELC.PETR.ZS,USA,United States,North America,High income,Not classified
+514,2014,0.9232590812,EG.ELC.PETR.ZS,USA,United States,North America,High income,Not classified
+515,2015,0.9038065202000001,EG.ELC.PETR.ZS,USA,United States,North America,High income,Not classified
